@@ -11,13 +11,13 @@
     - followed tailwind-css documentary for installation with VITE
 
 3. Features
-    > Login Signup Page (Authentication purpose)
+    - Login Signup Page (Authentication purpose)
         - Login or SignUp
         - Authenticated and redirected to browser page
-    > Browser Page (Main Page)
+    - Browser Page (Main Page)
         - Navbar with menu and search options
         - Movie Clip
-            -- trailer glimps running
-            -- movies suggestions (vertical list)
-    > Netflix-GPT search bar 
+            - trailer glimps running
+            - movies suggestions (vertical list)
+    - Netflix-GPT search bar 
         - using chatgpt APIs integration for movies suggestions
